@@ -1,0 +1,134 @@
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form1.resources
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Properties.Resources.resources
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Sobre.resources
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Cliente.resources
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Productos.resources
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Proveedores.resources
+C:\Users\PC\Desktop\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Usuarios.resources
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Cliente.resources
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form1.resources
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form2.resources
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Productos.resources
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Properties.Resources.resources
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Proveedores.resources
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Sobre.resources
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Usuarios.resources
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Cliente.resources
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form1.resources
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form2.resources
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Productos.resources
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Properties.Resources.resources
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Proveedores.resources
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Sobre.resources
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Usuarios.resources
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta (2)\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Cliente.resources
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form1.resources
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form2.resources
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Productos.resources
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Properties.Resources.resources
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Proveedores.resources
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Sobre.resources
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Usuarios.resources
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta4\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Cliente.resources
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form1.resources
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form2.resources
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Productos.resources
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Properties.Resources.resources
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Proveedores.resources
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Sobre.resources
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Usuarios.resources
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta6\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Cliente.resources
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form1.resources
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form2.resources
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Productos.resources
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Properties.Resources.resources
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Proveedores.resources
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Sobre.resources
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Usuarios.resources
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta7\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Cliente.resources
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form1.resources
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form2.resources
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Productos.resources
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Properties.Resources.resources
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Proveedores.resources
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Sobre.resources
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Usuarios.resources
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\Nueva carpeta8\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Cliente.resources
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form1.resources
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form2.resources
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Productos.resources
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Properties.Resources.resources
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Proveedores.resources
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Sobre.resources
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Usuarios.resources
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\avanze2\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\bin\Debug\Teletubbies code 2.4.pdb
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Cliente.resources
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form1.resources
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Form2.resources
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Productos.resources
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Properties.Resources.resources
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Proveedores.resources
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Sobre.resources
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies_code_2._4.Usuarios.resources
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.exe
+C:\Users\PC\Desktop\avanze3\Tienda Inventario\Teletubbies code 2.4\obj\Debug\Teletubbies code 2.4.pdb
