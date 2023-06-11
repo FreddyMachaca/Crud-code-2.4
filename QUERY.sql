@@ -1,5 +1,5 @@
-create database tienda2
-use tienda2
+create database tienda
+use tienda
 
 create table cliente
 (
@@ -9,14 +9,14 @@ Ci varchar(15),
 direccion varchar(80),
 )
 
-drop table cliente
-
 create table venta
 (
     id_venta varchar(20) primary key,
     fecha varchar(20),
     monto_final varchar(20),
 
+    id_cliente varchar(20),
+    foreign key (id_cliente) references cliente(id_cliente)
 )
 
 create table producto
@@ -26,7 +26,8 @@ create table producto
     precio varchar(15),
     cantidad varchar(10),
 
-
+    id_venta varchar(20),
+    foreign key (id_venta) references venta (id_venta)
 )
 
 create table categoria
@@ -35,6 +36,8 @@ create table categoria
     nombre_categoria varchar(30),
     descripcion varchar(50),
 
+    id_producto varchar(20),
+    foreign key (id_producto) references producto (id_producto)
 )
 
 create table proveedor
@@ -44,7 +47,8 @@ create table proveedor
     Telefono int,
     direccion_proveedor varchar(50),
 
-
+    id_producto varchar(20),
+    foreign key (id_producto) references producto (id_producto)
 )
 
 create table vendedor
